@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://raw.githubusercontent.com/mehmetishlek/CudiStream-CloudStream/master/.github/logo/cudistream.png",
+  "name": "CudiStream",
+  "description": "Turkce film ve dizi izleme eklentileri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mehmetishlek/CudiStream-CloudStream/builds/plugins.json"
+  ]
+}
