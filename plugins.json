@@ -1,0 +1,25 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.de&sz=%size%",
+        "fileHash": "sha256-e30e7ae40f0f2eef862a58d872e9178bb40b2368d8c0896e8543589e324c2d48",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mehmetishlek/CudiStream-CloudStream",
+        "fileSize": 21511,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "mehmetishlek"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "CudiStream",
+        "description": "CudiStream - Turkce film, dizi ve anime izleme eklentileri",
+        "url": "https://raw.githubusercontent.com/mehmetishlek/CudiStream-CloudStream/builds/CudiStream.cs3",
+        "name": "CudiStream"
+    }
+]
